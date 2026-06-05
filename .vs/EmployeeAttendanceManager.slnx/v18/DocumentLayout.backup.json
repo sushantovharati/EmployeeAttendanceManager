@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\breakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\breakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\database\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\database\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\database\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\database\\createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\breakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\breakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|c:\\users\\user\\desktop\\intern project\\employeeattendancemanager\\employeeattendancemanager\\forms\\historyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454D0662-D989-E49C-DB51-85BD46580FD8}|EmployeeAttendanceManager\\EmployeeAttendanceManager.csproj|solutionrelative:employeeattendancemanager\\forms\\historyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\BreakForm.cs [Design]",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\BreakForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:42:42.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:42:28.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.cs [Design]",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\HistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:43:07.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeAttendanceManager\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:36:30.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\AttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:42:14.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\HistoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:07:40.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Database\\DataAccess.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Database\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Database\\DataAccess.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Database\\DataAccess.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T23:28:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Database\\CreateDB.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Database\\CreateDB.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Database\\CreateDB.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Database\\CreateDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T23:27:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BreakForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\BreakForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:07:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\MainForm.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:36:43.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\AttendanceForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:56:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\EmployeeForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:07:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:17:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Program.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T23:18:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendanceManager\\Forms\\HistoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Intern Project\\EmployeeAttendanceManager\\EmployeeAttendanceManager\\Forms\\HistoryForm.Designer.cs",
+              "RelativeToolTip": "EmployeeAttendanceManager\\Forms\\HistoryForm.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:51:34.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
